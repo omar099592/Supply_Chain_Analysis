@@ -50,7 +50,7 @@ analyze returns, discount strategies, and deliver actionable business insights.
 
 
 
-![EDA](images/EDA.png)
+![EDA](supply-chain/images/EDA.png)
 
 
 
