@@ -43,14 +43,14 @@ analyze returns, discount strategies, and deliver actionable business insights.
 
 
 
-![Dashboard 2](images/dashboard_2.png)
+![data_cleanin](images/data_cleanin.png)
 
 
 ## 🔍 EDA (PostgreSQL)
 
 
 
-![Dashboard 2](images/dashboard_2.png)
+![EDA](images/EDA.png)
 
 
 
